@@ -8,8 +8,6 @@ Purpose:
 3. Provide post-launch chatbot KPI queries.
 4. Keep SQL aligned with KPI_Definitions.md.
 
-Portfolio disclaimer:
-NovaCart, the chatbot, and all data/results are simulated.
 */
 
 -- ================================================================
