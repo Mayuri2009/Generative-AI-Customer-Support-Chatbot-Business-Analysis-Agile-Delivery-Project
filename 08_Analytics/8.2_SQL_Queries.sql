@@ -1,13 +1,9 @@
 /*
-NovaCart Generative-AI Customer Support Chatbot — Analytics SQL
-PostgreSQL syntax
-
 Purpose:
 1. Establish the pre-chatbot support baseline.
 2. Identify automation opportunities.
 3. Provide post-launch chatbot KPI queries.
 4. Keep SQL aligned with KPI_Definitions.md.
-
 */
 
 -- ================================================================
